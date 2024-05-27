@@ -1,0 +1,110 @@
+.container{
+    height: 1250px;
+    width:1000px;
+    display: flex;
+    border: 1px solid white;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 10px;
+    position: relative;
+    margin: auto;    
+}
+
+.ulist{
+    list-style: none;
+    display: flex;
+    gap: 10px;
+    justify-content: end;
+    padding-top: 5px;
+}
+.header{
+    border: 1px solid black; 
+    height: 1250px;
+    padding: 10px;
+    justify-content: space-between;
+    display: inline;
+}
+.content{
+    display: flex;
+}
+
+
+.button{
+    background-color: black;
+    background-color: blueviolet;
+    border-radius: 5px;
+    padding: 5px;
+    color: white;
+
+}
+.image{
+border: 1px solid black;
+height: 100px; 
+width: 100px;
+border-radius: 50%;
+float: right;
+}
+.website{
+    border: 1px solid black;
+    height: 150px;
+    width: 980px;
+    border-radius: 10px; 
+    padding: 5px;
+    margin-top: 10px;
+    
+}
+
+.card{
+    display: flex;
+     margin: 5px; 
+
+   
+}
+
+.men{
+    text-align: center;
+    background-color:aqua;
+    border-radius:10px; 
+
+}
+legend ,img
+{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+.women{
+   text-align: center;
+   background-color:aquamarine ;
+   border-radius: 10px;
+}
+.project{
+    height: 350px; 
+    width: 970px;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 5px;
+
+}
+.name
+{
+    height: 30px;
+    width:450px;
+    padding: 10px;
+    border-radius: 10px;
+   
+}
+.views{
+    height: 100px;
+    width:600px ;
+    border-radius: 10px;
+}    
+.meet{
+    
+        background-color:purple;
+        border-radius: 5px;
+        padding: 5px;
+        color: white;
+}
+
